@@ -45,6 +45,8 @@ public class LifeCycle : MonoBehaviour
     {
         Debug.Log("플레이어가 로그아웃했습니다.");
     }
+
+
     private void OnDestroy() //해제 Ondestroy()
     {
         Debug.Log("플레이어 데이터를 해제하였습니다.");
