@@ -1,1 +1,1 @@
-# 3D Lecture
+# 3D-Lecture
